@@ -14,6 +14,7 @@ Class Activation Maps (Grad-CAM)
 https://pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/
 
 Predictions:
-
+![alt text](imgs/test_samples.png)
 
 Class activation map:
+![alt text](imgs/class_activation_map.png)
