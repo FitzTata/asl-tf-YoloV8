@@ -17,7 +17,7 @@ Predictions:
 ![alt text](imgs/test_samples.png)
 
 Visualisation(TSNE)
-![alt text](imgs/tsne.jpg)
+![alt text](imgs/tsne.JPG)
 
 Class activation map:
 ![alt text](imgs/class_activation_map.png)
