@@ -16,5 +16,8 @@ https://pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-wi
 Predictions:
 ![alt text](imgs/test_samples.png)
 
+Visualisation(TSNE)
+![alt text](imgs/tsne.jpg)
+
 Class activation map:
 ![alt text](imgs/class_activation_map.png)
