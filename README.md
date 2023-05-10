@@ -2,6 +2,7 @@ I made an implementation of YoloV8 with some custom dense layers.
 Goals was:
 1. To classify ASL symbols
 2. To see some hidden layers features
+3. To make Class activation map (GradCAM)
 
 Dataset:
 https://www.kaggle.com/datasets/grassknoted/asl-alphabet
